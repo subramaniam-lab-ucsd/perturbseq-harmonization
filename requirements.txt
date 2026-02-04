@@ -2,4 +2,8 @@ datasets
 anndata 
 scipy 
 pandas 
-pubchempy
+pubchempy 
+polars 
+matplotlib 
+numpy
+decoupler
